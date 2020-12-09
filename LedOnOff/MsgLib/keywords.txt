@@ -1,0 +1,5 @@
+MsgLib KEYWORD1
+
+begin KEYWORD2
+receiveMsg KEYWORD2
+clearMsg KEYWORD2
